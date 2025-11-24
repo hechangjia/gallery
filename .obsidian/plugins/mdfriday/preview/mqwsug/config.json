@@ -1,0 +1,27 @@
+{
+  "baseURL": "/",
+  "title": "_index",
+  "contentDir": "content",
+  "publishDir": "public",
+  "defaultContentLanguage": "en",
+  "taxonomies": {
+    "tag": "tags",
+    "category": "categories"
+  },
+  "module": {
+    "imports": [
+      {
+        "path": "https://gohugo.net/note.zip?version=1.2"
+      }
+    ]
+  },
+  "params": {
+    "branding": false
+  },
+  "languages": {
+    "zh": {
+      "contentDir": "content",
+      "weight": 1
+    }
+  }
+}

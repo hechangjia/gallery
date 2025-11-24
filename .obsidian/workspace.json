@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "animals/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -191,13 +191,31 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "68f37cb7d8ededad",
+  "active": "3ec959e65235c7de",
   "lastOpenFiles": [
-    "README.md",
-    "未命名.base",
-    "_index.md",
+    "theme-gallery.zip",
+    "MDFriday/note/content-zh/index.md",
+    "featured-album/index.md",
+    "featured-album/manny-becerra-IFlBNNOLHUo-unsplash.jpg",
+    "featured-album/jeremy-bishop-pjszS6Q2g_Y-unsplash.jpg",
     "about.md",
     "links.md",
+    "_index.md",
+    "MDFriday/note/content-ja/index.md",
+    "MDFriday/note/content-ja",
+    "MDFriday/note/content-de/index.md",
+    "MDFriday/note/content-de",
+    "MDFriday/note/content/index.md",
+    "MDFriday/note/content",
+    "MDFriday/note/content-zh",
+    "MDFriday/note/content-es/index.md",
+    "MDFriday/note/content-es",
+    "MDFriday/note/content-fr/index.md",
+    "MDFriday/note/content-fr",
+    "MDFriday/note",
+    "MDFriday",
+    "README.md",
+    "未命名.base",
     "martin-martz-wRuhOOaG-Z4-unsplash.jpg"
   ]
 }

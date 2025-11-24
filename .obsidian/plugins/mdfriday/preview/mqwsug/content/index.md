@@ -1,0 +1,1 @@
+X:/Desktop/Obsidian/Gallery/_index.md
