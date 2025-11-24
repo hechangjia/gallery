@@ -1,0 +1,14 @@
+{
+  "username": "b23011922@njupt.edu.cn",
+  "password": "@Hcj20040728",
+  "userToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOm51bGwsImV4cCI6IjIwMjUtMTItMjRUMTE6Mzc6MTQuMTYwMzg1MTc3KzA4OjAwIiwiaWF0IjpudWxsLCJpc3MiOm51bGwsImp0aSI6bnVsbCwibmJmIjpudWxsLCJzdWIiOm51bGwsInVzZXIiOiJiMjMwMTE5MjJAbmp1cHQuZWR1LmNuIn0.LGnnhh3UvDCd8wD8ovpFqbfs3eGgt3WAoFJtRchQRws",
+  "downloadServer": "global",
+  "publishMethod": "netlify",
+  "netlifyAccessToken": "",
+  "netlifyProjectId": "",
+  "ftpServer": "",
+  "ftpUsername": "",
+  "ftpPassword": "",
+  "ftpRemoteDir": "",
+  "ftpIgnoreCert": true
+}
