@@ -1,5 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'zh-CN'
-title = 'My New Hugo Site'
+title = '贺昌嘉的图库'
 
-theme = 'gallery'
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
